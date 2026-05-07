@@ -3,8 +3,8 @@ package clock
 import (
 	"time"
 
-	. "go-wipi/lib"
-	. "go-wipi/lib/models"
+	. "github.com/20kups/go-wipi/lib"
+	. "github.com/20kups/go-wipi/lib/models"
 )
 
 type Clock struct {
